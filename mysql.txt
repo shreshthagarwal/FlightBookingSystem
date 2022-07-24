@@ -1,0 +1,21 @@
+database name: booking system
+tables:
+users and flights
+
+users:
+role varchar(10)
+username varchar(10)
+password varchar(10)
+
+admin admin123 admin123
+user user1 user1
+user user2 user2
+
+flights:
+flightno varchar(9)
+departure_time varchar(5)
+destination varchar(20)
+status varchar(15)
+
+AIRIND384 05:30 CHENNAI SCHEDULED
+ETC ETC
